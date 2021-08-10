@@ -30,12 +30,6 @@ figure .image img {
 }
 
 .hero {
-  background: rgb(156, 236, 135);
-  background: linear-gradient(
-    60deg,
-    rgba(156, 236, 135, 1) 12%,
-    rgba(92, 213, 245, 1) 96%
-  );
   margin-bottom: 20px;
 }
 
